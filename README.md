@@ -1,4 +1,6 @@
-# 2425_M7UF1_Scaffolding
+# MP07, Sprint 1, exercice 2
+
+## Calculator backend
 
 Run using `docker-compose up`
 
